@@ -1,3 +1,7 @@
+#profile-title: base64:RWF2ZVZQTiB8IFdoaXRlIExpc3Q=
+#subscription-userinfo: upload=77309411328; download=77309411328; total=1099511627776; expire=1769846400
+#profile-web-page-url: https://t.me/EaveVPN
+#profile-update-interval: 1
 vless://5c83b272-47db-4ef1-b8c5-4f7d0886608b@178.154.202.67:4249?type=tcp&security=reality&sni=sun6-22.userapi.com&pbk=Nwyu95mrEJ0vDgB2RAbkkpMyulXzeq2mLLYpsTJYsmg&sid=a20d3ed244c76426&fp=chrome&flow=xtls-rprx-vision#🇦🇲 Армения #1 | Антиблок 1 📱| EaveVPN
 vless://5c83b272-47db-4ef1-b8c5-4f7d0886608b@217.16.27.216:4249?type=tcp&security=reality&sni=apiok.ru&pbk=2z8C1eWOMSZEYNoERS8E6f8jiWvY38Z4iebbYh8mtXc&sid=a20d3ed244c76426&fp=qq&flow=xtls-rprx-vision#🇦🇲 Армения #2 | Антиблок 2 📱| EaveVPN
 vless://5c83b272-47db-4ef1-b8c5-4f7d0886608b@178.154.202.67:4249?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Nwyu95mrEJ0vDgB2RAbkkpMyulXzeq2mLLYpsTJYsmg&security=reality&sid=a20d3ed244c76426&sni=sun6-22.userapi.com&type=tcp#🇦🇲 Армения #3 | Антиблок 3 📱| EaveVPN
