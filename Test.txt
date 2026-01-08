@@ -1,5 +1,5 @@
 #profile-title: base64:RWF2ZVZQTiB8IFdoaXRlIExpc3Q=
-#subscription-userinfo: upload=77309411328; download=77309411328; total=161061273600; expire=1769846400
+#subscription-userinfo: upload=1099511627776; download=1099511627776; total=2199023255552; expire=1769846400
 #profile-web-page-url: https://t.me/EaveVPN
 #profile-update-interval: 1
 vless://5c83b272-47db-4ef1-b8c5-4f7d0886608b@178.154.202.67:4249?type=tcp&security=reality&sni=sun6-22.userapi.com&pbk=Nwyu95mrEJ0vDgB2RAbkkpMyulXzeq2mLLYpsTJYsmg&sid=a20d3ed244c76426&fp=chrome&flow=xtls-rprx-vision#🇦🇲 Армения #1 | Антиблок 1 📱
