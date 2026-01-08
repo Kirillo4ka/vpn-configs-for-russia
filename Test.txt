@@ -1,6 +1,6 @@
-#profile-title: base64:8J+GkyBHaXRIdWI6TWF0aW5HaGFuYWJyaSB8IFN1YjE=
+#profile-title: base64:8J+GkyBFYXZlVlBOIHwgS2lyaWxsbzRrYQ==
 #subscription-userinfo: upload=30; download=30; total=10737418240000000; expire=2546249531
-#profile-web-page-url: https://github.com/MatinGhanbari/v2ray-configs
-#support-url: https://github.com/MatinGhanbari/v2ray-configs
+#profile-web-page-url: https://github.com/Kirillo4ka
+#support-url: https://github.com/Kirillo4ka
 #profile-update-interval: 1
 vless://5c83b272-47db-4ef1-b8c5-4f7d0886608b@178.154.202.67:4249?type=tcp&security=reality&sni=sun6-22.userapi.com&pbk=Nwyu95mrEJ0vDgB2RAbkkpMyulXzeq2mLLYpsTJYsmg&sid=a20d3ed244c76426&fp=chrome&flow=xtls-rprx-vision#🇦🇲 Армения #1 | Антиблок 1 📱| EaveVPN
