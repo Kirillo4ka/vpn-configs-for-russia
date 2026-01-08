@@ -1,5 +1,5 @@
-#profile-title: base64:8J+GkyBFYXZlVlBOIHwgS2lyaWxsbzRrYQ==
-#subscription-userinfo: upload=30; download=30; total=10737418240000000; expire=2546249531
+#profile-title: base64:RWF2ZVZQTiB8IFdoaXRlIExpc3Q=
+#subscription-userinfo: upload=107374182400; download=107374182400; total=214748364800; expire=1769846400
 #profile-web-page-url: https://github.com/Kirillo4ka
 #support-url: https://github.com/Kirillo4ka
 #profile-update-interval: 1
