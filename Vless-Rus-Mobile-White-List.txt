@@ -1,5 +1,5 @@
 #profile-title: base64:RWF2ZVZQTiB8IFdoaXRlIExpc3Q=
-#subscription-userinfo: upload=0; download=15032385536; total=9999999999999999999; expire=2524608000
+#subscription-userinfo: upload=1048576; download=15032385536; total=9999999999999999999; expire=2524608000
 #profile-web-page-url: https://t.me/EaveVPN
 #profile-update-interval: 12
 vless://4fe214fb-048e-431f-b939-4518dc9df6a2@178.154.240.168:8443?encryption=none&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&serviceName=grpc&sid=6b2f4e6ac9b1d2f0&sni=taxi.yandex.ru&type=grpc#🇦🇲 Armenia #1 | Антиблок 1 📱| EaveVPN
