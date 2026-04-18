@@ -1,0 +1,16 @@
+# profile-title: White List | Full | Hysteria, VLESS | EaveVPN
+# profile-update-interval: 2
+# Date/Time: 2026-04-18 18:28:25
+# Количество: 10
+# For more info and VPN-configs - visit: https://github.com/Kirillo4ka/eavevpn-configs
+
+vless://aae59c28-a4e7-46bd-8fa5-a239e8cfe0b1@kz.plus-hit.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=random&security=reality&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&sid=ac7f3b2d5e01948b&packetEncoding=xudp#🇷🇺 Россия | White List | Fast | EaveVPN | #0001
+vless://3ced4bd2-fbf7-4ee5-9adf-3e1517d294a1@45.84.1.123:443?security=reality&encryption=none&pbk=YFfz76RnULla7CbfuMpkCmaUF3RVhu5JRYb6HAR95Ak&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4b#🇷🇺 Россия | White List | Fast | EaveVPN | #0002
+vless://8cf1c214-3376-11f1-bf19-dcb6e8e27879@92.118.126.205:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=cloudcdn-m9-15.cdn.yandex.net&fp=randomized&pbk=APwi9yR-ezZtFU6xj2a3SBoXvEoWOoiRuZSit0N9xWI&sid=#🇷🇺 Россия | White List | Fast | EaveVPN | #0003
+vless://19e94f08-d831-4673-8a03-bb8ebe680eb9@185.186.140.146:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26&packetEncoding=xudp#🇷🇺 Россия | White List | Fast | EaveVPN | #0004
+vless://90c9c25c-df6c-4438-83d3-ef97166a9184@72.56.237.204:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=lRk6p0r1iRelehqPuqRNLgODQeUQvtOxufdPuorG5ng&sid=40c9697ef67a03fb&packetEncoding=xudp#🇷🇺 Россия | White List | Fast | EaveVPN | #0005
+vless://19e94f08-d831-4673-8a03-bb8ebe680eb9@85.209.135.75:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26&packetEncoding=xudp#🇷🇺 Россия | White List | Fast | EaveVPN | #0006
+vless://2654fc26-c24c-443f-9ee0-fd8ee7237757@telegram.private-networks-zk.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=ads.x5.ru#🇷🇺 Россия | White List | Fast | EaveVPN | #0007
+vless://6d151e62-2da9-40dd-ac9f-5ae5b33ba8a5@telegram.private-networks-zk.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=ads.x5.ru#🇷🇺 Россия | White List | Fast | EaveVPN | #0008
+vless://7d48132f-1b7b-4d89-af6e-0ea9a229e0f4@ru-4.maxg.ch:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=&pbk=QlQDX8jxqNJE1qtZmaZCDxE7gZqcLlOKdWd5YKNv0Gg&sid=555b9b33d083d3f1&spx=%2Fcdn-cgi%2Ftrace#🇷🇺 Россия | White List | Fast | EaveVPN | #0009
+hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&upmbps=10&downmbps=50#🇷🇺 Россия | White List | Fast | EaveVPN | #0010
